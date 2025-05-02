@@ -1,39 +1,23 @@
-# maiamitrea.github.io
-# H1
-## H2
-### H3
-#### H4
-##### H5
-###### H6
+### maia mitrea
 
-Alternatively, for H1 and H2, an underline-ish style:
+###### pictures i took  
+![IMG_9934](https://github.com/user-attachments/assets/bbebb95f-b109-4892-90e7-5078c627fc5b)
+![IMG_9881 Large](https://github.com/user-attachments/assets/15937de7-6738-49c9-81cf-9352d7fba019)
+![IMG_9912](https://github.com/user-attachments/assets/bb2ac69f-9418-41bf-aa63-433e758ae7dd)
 
-Alt-H1
-======
 
-Alt-H2
-------
-Emphasis, aka italics, with *asterisks* or _underscores_.
 
-Strong emphasis, aka bold, with **asterisks** or __underscores__.
+###### my manifesto  
+![bokchy2](https://github.com/user-attachments/assets/0a9a56ff-7915-4308-9a3d-0a82ffb941b9)
 
-Combined emphasis with **asterisks and _underscores_**.
 
-Strikethrough uses two tildes. ~~Scratch this.~~
-1. First ordered list item
-2. Another item
-⋅⋅* Unordered sub-list. 
-1. Actual numbers don't matter, just that it's a number
-⋅⋅1. Ordered sub-list
-4. And another item.
+###### poster i made
+![robot](https://github.com/user-attachments/assets/2d7fa011-dd7d-4e0e-afe6-f6b96bb10400)
 
-⋅⋅⋅You can have properly indented paragraphs within list items. Notice the blank line above, and the leading spaces (at least one, but we'll use three here to also align the raw Markdown).
 
-⋅⋅⋅To have a line break without a paragraph, you will need to use two trailing spaces.⋅⋅
-⋅⋅⋅Note that this line is separate, but within the same paragraph.⋅⋅
-⋅⋅⋅(This is contrary to the typical GFM line break behaviour, where trailing spaces are not required.)
+###### video i made 
 
-* Unordered list can use asterisks
+
 - Or minuses
 + Or pluses
 [I'm an inline-style link](https://www.google.com)
